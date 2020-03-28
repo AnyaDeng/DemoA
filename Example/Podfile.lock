@@ -1,0 +1,16 @@
+PODS:
+  - DemoA (0.1.0)
+
+DEPENDENCIES:
+  - DemoA (from `../`)
+
+EXTERNAL SOURCES:
+  DemoA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoA: 04a94bd9ee15e311032c3bcbd31db0e6acc35ebf
+
+PODFILE CHECKSUM: 1563c30e15747ccf381e954662f326d097ef9654
+
+COCOAPODS: 1.8.4
